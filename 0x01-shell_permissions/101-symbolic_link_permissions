@@ -1,2 +1,3 @@
 #!/bin/bash
-chown -h betty:holberton _hello
+chown -h _hello:vincent staff
+
