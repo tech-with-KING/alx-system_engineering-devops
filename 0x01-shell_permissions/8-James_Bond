@@ -1,0 +1,3 @@
+#!/bin/bash
+touch hello
+chmod 007 hello
