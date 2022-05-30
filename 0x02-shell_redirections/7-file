@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Bash school" | tee \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
+echo "Best School" | tee \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+							       
