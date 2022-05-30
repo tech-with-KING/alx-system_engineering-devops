@@ -1,2 +1,3 @@
 #!/bin/bash
-heas -10 etc/passwd
+head -10 etc/passwd
+
