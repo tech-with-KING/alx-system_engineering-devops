@@ -1,0 +1,2 @@
+#!/bin/bash
+heas -10 etc/passwd
