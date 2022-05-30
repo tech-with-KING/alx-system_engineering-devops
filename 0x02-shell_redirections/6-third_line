@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3p' /etc/passwd
+sed -n '3p' iacta
