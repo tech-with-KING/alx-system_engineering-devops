@@ -1,1 +1,2 @@
-lop
+#!/bin/bash
+echo "Bash school" | tee \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) 
