@@ -1,2 +1,0 @@
-#!/bin/bash
-tail -n +2 | paste
